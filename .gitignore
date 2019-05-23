@@ -3,7 +3,7 @@ node_modules
 /dist
 
 # custom outputDir
-/docs
+# /docs
 
 # local env files
 .env.local
